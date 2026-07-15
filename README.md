@@ -72,13 +72,3 @@ Este Dashboard interactivo moderno **no es un simple cambio cosmético**. Es una
 
 ---
 
-### Paso 4: Evidencia del Diseño Digital (Entregable)
-*Agreguen aquí la información sobre el formato en el que desarrollaron el diseño digital:*
-
-*   **Tecnología/Herramienta utilizada:** Código Frontend en HTML5, CSS estructurado con Tailwind CSS compilado por CDN y JavaScript Vanilla para la simulación del reloj operativo en tiempo real.
-*   **Enlace al Prototipo Digital (si aplica):** [https://github.com/SuUsuario/dashboard-emergencias-clinica](https://github.com/SuUsuario/dashboard-emergencias-clinica)
-*   **Instrucciones para visualizar el diseño:** 
-    1. Clonar el repositorio público de GitHub o descargar el código comprimido.
-    2. Localizar el archivo ejecutable `index.html` en la carpeta raíz del proyecto.
-    3. Hacer doble clic sobre el archivo para abrir el Dashboard interactivo moderno en cualquier navegador web actualizado (Chrome, Edge, Firefox, Safari).
-    4. Opcionalmente, revisar la carpeta `/design` donde se encuentra la captura estática en alta resolución `mockup.png` de la propuesta UI/UX finalizada.
