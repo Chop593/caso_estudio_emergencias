@@ -4,9 +4,6 @@ Este repositorio contiene la entrega de la Actividad Práctica sobre el diseño 
 
 ---
 
-## 👥 Integrantes del Proyecto
-
- **Alexander Cepeda** 
 
 ---
 
@@ -32,10 +29,6 @@ El antiguo sistema de texto plano violaba las leyes fundamentales de la usabilid
 * **Contexto:** Interfaz optimizada para escenarios hospitalarios de alta interrupción, permitiendo un escaneo y comprensión situacional total en un lapso inferior a 3 segundos.
 
 ---
-
-## 🎨 3. Vista Previa de la Solución Digital
-
-* 🔗 **Acceso al Prototipo en Vivo:** [Inserta aquí tu enlace de GitHub Pages o link de Figma]
 
 ### Interfaz del Dashboard Implementado:
 ![Vista del Dashboard](mockup.png)
